@@ -1,0 +1,27 @@
+0.0.0.0	tile-service.weather.microsoft.com
+0.0.0.0 cdn.onenote.net
+
+#Font Streaming
+0.0.0.0 fs.microsoft.com
+
+#Microsoft Store Analytics
+0.0.0.0 manage.devcenter.microsoft.com
+
+#OneDrive
+0.0.0.0 g.live.com
+0.0.0.0	oneclient.sfx.ms
+0.0.0.0 logincdn.msauth.net
+
+#Skype
+0.0.0.0 *.pipe.aria.microsoft.com
+0.0.0.0 config.edge.skype.com
+
+#Teams
+0.0.0.0 config.teams.microsoft.com
+
+#Maps
+0.0.0.0 maps.windows.com
+
+#Windows Spotlight
+0.0.0.0	arc.msn.com
+0.0.0.0 ris.api.iris.microsoft.com
